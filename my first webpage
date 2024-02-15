@@ -1,0 +1,17 @@
+<html>
+    <head>
+        <title>My First Webpage</title>
+    </head>
+    <body>
+        <h1>My First Webpage</h1>
+        <h2>Omar Nevy</h2>
+        <img src="C:\Users\omarn\OneDrive\Documents\public\IMG_9275.jpg">
+        
+             <P>During the pandemic i was trying to grasp new skills since i ha dso much time on my hands.During the pandemic ive learned how to use phtotoshop along with learning to draw by hand. Ive also pickede up a hobby in lifting in the gym. the pandemic was long but the time defeintly didnt go to waste.</P>
+    <h3>Three things I like</h3>
+        <ul>
+            <li>Music</li>
+            <li>clothing</li>
+            <li>working out</li>
+        </ul>
+    </body>
